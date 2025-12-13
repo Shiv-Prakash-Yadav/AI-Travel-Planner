@@ -16,3 +16,9 @@ An intelligent web application that helps users plan their trips using AI-powere
 - **Version Control**: Git & GitHub
 
 ## 📁 Project Structure
+AI-Travel-Planner/
+├── app.py # Main application file
+├── main.js # Frontend JavaScript logic
+├── style.css # Styling and responsive design
+├── README.md # Project documentation
+└── (other assets)
